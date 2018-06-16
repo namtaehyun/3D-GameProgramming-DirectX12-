@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameFramework.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+    <ClCompile Include="3DGP_HomeWork2_2014180018.cpp">
+      <Filter>코드</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameFramework.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+    <ClInclude Include="3DGP_HomeWork2_2014180018.h">
+      <Filter>헤더</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LabProject.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="small.ico" />
+    <None Include="ReadMe.txt" />
+    <None Include="Shaders.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="헤더">
+      <UniqueIdentifier>{7d273474-0b44-4bda-9da7-4a9b2bef7d53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="코드">
+      <UniqueIdentifier>{fcc655bd-7001-4c61-90f0-9581ea8cdc16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Game.ico" />
+  </ItemGroup>
+</Project>
